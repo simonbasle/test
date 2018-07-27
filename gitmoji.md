@@ -5,3 +5,4 @@
 :white_check_mark: tests
 :construction_worker: build/CI
 :pencil2: typos or minor changes
+:art: improving structure / format of the code
